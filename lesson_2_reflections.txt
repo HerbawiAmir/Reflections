@@ -1,3 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 a hiddin .get file is created, in which all commits are saved that are meta data for the change history
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it's an intermidate stage in which i can make commits before finally writting them, i cna make several changes then save them at once 
+
+How can you use the staging area to make sure you have one commit per logical change?
+you can check the changes you have made by using git diff and compare the changes in WD and that in SA
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+I could create a seconed copy or update a version of the project that I'm working on, branching will allow for a safer and faster multi-tasking scheme (making sth new) you could have always the master branch that is owrking never stops, and having your seconed branch to test and work on
+
+How do the diagrams help you visualize the branch structure?
+by easily conducting th eparents relation and easily find and un-reachable brancehs
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: faster cons: less accurate 
