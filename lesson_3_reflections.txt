@@ -6,3 +6,7 @@ since the change could be made by someone else and that he could still be testin
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 fork is to clone the repositry to your github since you don't have a premission to eidt it, clones to copy it again all but this time to your desktp, a branch is a testing side mechansim to test new features.you could fork insted of clone.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+working separetly and editing, when feeling confideant about the code you can upload and merge
+
