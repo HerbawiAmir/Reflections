@@ -10,3 +10,5 @@ fork is to clone the repositry to your github since you don't have a premission 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 working separetly and editing, when feeling confideant about the code you can upload and merge
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+you would have to work with the traditional texting or have to work in person, i do belive that github is a truly great achivement
